@@ -1,0 +1,7 @@
+{
+  "minRequiredVersionCode": 1,
+  "latestVersionCode": 1,
+  "latestVersionName": "v1.0",
+  "releaseNotes": "Official release with accurate Jean Meeus astronomical Panchang calculations, Gandmool Dosh timings, and customizable festival reminders.",
+  "updateUrl": "https://github.com/quigta/sampoorna-sanskriti"
+}
