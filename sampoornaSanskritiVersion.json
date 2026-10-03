@@ -1,7 +1,7 @@
 {
-  "minRequiredVersionCode": 2,
-  "latestVersionCode": 2,
-  "latestVersionName": "v1.1",
-  "releaseNotes": "Performance improvements and Play Store integration updates. Please update to the latest version to continue.",
+  "minRequiredVersionCode": 3,
+  "latestVersionCode": 3,
+  "latestVersionName": "v1.2",
+  "releaseNotes": "Bug fixes for fresh Play Store installs and performance optimizations.",
   "updateUrl": "https://play.google.com/store/apps/details?id=com.quigta.sampoornaSanskriti"
 }
