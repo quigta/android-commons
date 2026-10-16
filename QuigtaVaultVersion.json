@@ -1,0 +1,8 @@
+{
+  "min_required_version": 24,
+  "latest_version": 24,
+  "force_update": false,
+  "title": "Update Required",
+  "message": "A critical update is required to continue using Quigta Vault. Please update to the latest version to ensure your vault's security and compatibility.",
+  "play_store_url": "https://play.google.com/store/apps/details?id=com.higupta.passwordmanager"
+}
