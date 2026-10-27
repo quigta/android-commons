@@ -1,6 +1,6 @@
 {
-  "min_required_version": 27,
-  "latest_version": 27,
+  "min_required_version": 28,
+  "latest_version": 28,
   "force_update": true,
   "title": "Update Required",
   "message": "A critical update is required to continue using Quigta Vault. Please update to the latest version to ensure your vault's security and compatibility.",
